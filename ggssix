@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.ottplus.bd/uploads/images/2025/11/02/images_af6fa94170db0440e5fb2e94d8e78ad2_goplay_thumbnail1.jpg" group-title="SPORTS",Sony Ten Sports 1
-EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000
-https://bd-mc-flive.fancode.com/mumbai/143533_english_hls_648a64787183033_1ta-di_h264/index.m3u8?hdntl=Expires=1783047906~_GO=Generated~acl=/mumbai/143533_english_hls_648a64787183033_1ta-di_h264/*~Signature=Ac2BFekDsppyzvcEBdeGykW7m-0qdV4sk_XWpK3GuW1n1IUdhd3ddwvv9ejznQV5iQqJLP199f5bP5NKPOhWUBcxM1gI
+#EXTINF:-1 group-title="SPORTS" license_type="clearkey" license_key="4e7ffaa39b57444f88d138eb4a52d219:b4812cd1b4776b0ce47cda0ec2b5a3d8", BEIN SPORTS 1
+https://bd-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd
