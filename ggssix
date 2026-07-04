@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-name="BEIN SPORTS 1", BEIN SPORTS 1
+#EXTINF:-1 group-title="SPORTS", FanCode India Live
 #EXTVLCOPT:http-user-agent=Fancode/Android
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e7ffaa39b57444f88d138eb4a52d219:b4812cd1b4776b0ce47cda0ec2b5a3d8
-https://bd-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd
-
+#EXTVLCOPT:http-x-forwarded-for=1.22.0.0
+#EXTVLCOPT:http-client-ip=1.22.0.0
+https://in-mc-fblive.fancode.com/mumbai/143587_english_hls_ec13c73b3631566_1ta-di_h264/index.m3u8
